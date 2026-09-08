@@ -4,6 +4,8 @@
 > **This repository is being archived and is no longer maintained.**
 >
 > [TreasuryDirect](https://www.treasurydirect.gov/) announced: “The Virtual Keyboard will be removed the week of May 7th to improve the customer experience.” Since the virtual keyboard has been removed, this userscript is no longer necessary.
+>
+> As of September 7, 2026, TreasuryDirect also notes: “On September 13, 2026, we’re introducing a more secure login experience through ID.me for TreasuryDirect!”
 
 A userscript to enable user input (and autocomplete for password managers) on the Treasury Direct website (
 treasurydirect.gov)
