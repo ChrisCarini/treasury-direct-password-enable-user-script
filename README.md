@@ -1,7 +1,7 @@
 # Treasury Direct Password Enable User Script
 
 > [!WARNING]
-> **This repository is being archived and is no longer maintained.**
+> **This repository is archived and no longer maintained.**
 >
 > In 2023, [TreasuryDirect](https://www.treasurydirect.gov/) announced: “The Virtual Keyboard will be removed the week of May 7th to improve the customer experience.” Since the virtual keyboard has been removed, this userscript is no longer necessary.
 >
